@@ -9,3 +9,7 @@ Part of the challenge of game development is making assets, including music, sou
 * [Asesprite](https://www.aseprite.org/)
 * [Pixel Dailies on Twitter](https://twitter.com/Pixel_Dailies)
 * [Pixel Dailies on Reddit](https://www.reddit.com/r/pixel_dailies/)
+* [PixelArt](https://www.reddit.com/r/PixelArt/)
+* [Kenney](https://www.kenney.nl/)
+* [OpenGameArt](https://opengameart.org/)
+* [Miniboss pixel art tutorials](https://blog.studiominiboss.com/pixelart)
